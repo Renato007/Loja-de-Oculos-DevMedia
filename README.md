@@ -6,4 +6,5 @@ Este projeto de construiruma página web para loja de oculos é um dos desafios 
 Em desenvolvimento
 
 ## Etapas
-1. Construir a estrutura inicial- da página loja virtual
+### Etapa 01
+![oi](../loja-de-oculos-devmedia/public/assets/img/composicao-dos-componentes.jpg)
