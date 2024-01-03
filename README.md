@@ -7,4 +7,4 @@ Em desenvolvimento
 
 ## Etapas
 ### Etapa 01
-![oi](../loja-de-oculos-devmedia/public/assets/img/composicao-dos-componentes.jpg)
+![imagem da estrutura inicial](./public/assets/img/composicao-dos-componentes.jpg)

@@ -1,7 +1,8 @@
+import './style.css'
 export default function SecaoProdutos() {
   return (
-    <section>
-      <div>
+    <section id='produtos' className='secao-produtos'>
+      <div className='limitar-secao'>
         <h3>Nossos produtos</h3>
         <p>
           Trabalhamos com óculos de grau, óculos de sol, lentes transition nos
@@ -11,8 +12,8 @@ export default function SecaoProdutos() {
           Todos os nossos preços são acessíveis e contam com a melhor qualidade
           do mercado.
         </p>
-        <div>
-          <div>
+        <div className='container-produtos'>
+          <div className='box-produto'>
             <h4>Óculos de grau</h4>
             <img
               src='assets/img/oculos01.png'
@@ -21,7 +22,7 @@ export default function SecaoProdutos() {
             />
             <p>R$ 500,00</p>
           </div>
-          <div>
+          <div className='box-produto'>
             <h4>Óculos transition</h4>
             <img
               src="assets/img/oculos02.png"
@@ -30,7 +31,7 @@ export default function SecaoProdutos() {
             />
             <p>R$ 750,00</p>
           </div>
-          <div>
+          <div className='box-produto'>
             <h4>Óculos de sol</h4>
             <img
               src="assets/img/oculos03.png"
@@ -39,7 +40,7 @@ export default function SecaoProdutos() {
             />
             <p>R$ 700,00</p>
           </div>
-          <div>
+          <div className='box-produto'>
             <h4>Óculos infantil</h4>
             <img
               src="assets/img/oculos04.png"

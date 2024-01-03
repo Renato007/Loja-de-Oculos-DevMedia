@@ -1,0 +1,24 @@
+/* 
+Trata de estilos que serão utilizados por mais de um componente
+*/
+
+body{
+    margin:0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.limitar-secao{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.subTitulo{
+    text-transform:uppercase;
+    font-size: 36px;
+    margin: 0;
+}
